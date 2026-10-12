@@ -20,10 +20,10 @@ A machine learning project that classifies English news articles as **Real** or 
 ## Results
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
-0	Linear SVM | 0.9904	| 0.9919| 0.9868 |	0.9894 |
-1	Logistic Regression	| 0.9849 |	0.9904 |	0.9760 |	0.9831 |
-2	Random Forest	| 0.9766 |	0.9891 |	0.9588 |	0.9737 |
-3	Naive Bayes	| 0.9477 |	0.9407 |	0.9439 |	0.9423 |
+Linear SVM | 0.9904	| 0.9919| 0.9868 |	0.9894 |
+Logistic Regression	| 0.9849 |	0.9904 |	0.9760 |	0.9831 |
+Random Forest	| 0.9766 |	0.9891 |	0.9588 |	0.9737 |
+Naive Bayes	| 0.9477 |	0.9407 |	0.9439 |	0.9423 |
 
 ![Model comparison](model_comparison.png)
 ![Confusion matrices](confusion_matrices.png)
