@@ -1,6 +1,6 @@
 # 📰 Fake News Detector (NLP)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/fake-news-detector/blob/main/Fake_News_Detector.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LaibaSarwar712/fake-news-detector/blob/main/Fake_News_Detector.ipynb)
 
 A machine learning project that classifies English news articles as **Real** or **Fake** using TF-IDF features and classical ML models.
 
@@ -25,9 +25,9 @@ A machine learning project that classifies English news articles as **Real** or 
 | Linear SVM | _fill_ | _fill_ | _fill_ | _fill_ |
 | Random Forest | _fill_ | _fill_ | _fill_ | _fill_ |
 
-![Model comparison](images/model_comparison.png)
-![Confusion matrices](images/confusion_matrices.png)
-![ROC](images/roc_curve.png)
+![Model comparison](model_comparison.png)
+![Confusion matrices](confusion_matrices.png)
+![ROC](roc_curve.png)
 
 ## Key learnings
 - Raw dataset leaks the label via publisher tags; removing them gives a more honest score.
